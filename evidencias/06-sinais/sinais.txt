@@ -1,0 +1,20 @@
+== ANTES (19:31:18)
+    PID     LWP STAT  NI     TIME CMD
+   1719    1719 SNl+  10 00:00:00 python3 aplicacao/app.py
+   1719    1720 Rl+    0 00:11:26 python3 aplicacao/app.py
+== APOS SIGSTOP (19:31:23)
+    PID     LWP STAT  NI     TIME CMD
+   1719    1719 TNl   10 00:00:00 python3 aplicacao/app.py
+   1719    1720 Tl     0 00:11:26 python3 aplicacao/app.py
+== APOS SIGCONT (19:31:28)
+    PID     LWP STAT  NI     TIME CMD
+   1719    1719 SNl   10 00:00:00 python3 aplicacao/app.py
+   1719    1720 Rl     0 00:11:31 python3 aplicacao/app.py
+== ESTADO ATUAL (19:34:36)
+    PID     LWP STAT  NI     TIME CMD
+   1719    1719 SNl   10 00:00:00 python3 aplicacao/app.py
+   1719    1720 Rl     0 00:14:39 python3 aplicacao/app.py
+== APOS SIGTERM (19:35:36)
+    PID TTY          TIME CMD
+processo 1719 encerrado
+ls: cannot access '/proc/1719': No such file or directory

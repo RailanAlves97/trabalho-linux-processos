@@ -1,0 +1,3 @@
+    PID     LWP STAT  NI %CPU
+   1719    1719 SNl   10  0.0
+   1719    1720 RNl   10 99.4

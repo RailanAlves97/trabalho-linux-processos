@@ -1,0 +1,5 @@
+total 0
+lrwx------ 1 Alves97 Alves97 64 Nov  4 19:19 0 -> /dev/pts/6
+lrwx------ 1 Alves97 Alves97 64 Nov  4 19:19 1 -> /dev/pts/6
+lrwx------ 1 Alves97 Alves97 64 Nov  4 19:19 2 -> /dev/pts/6
+l-wx------ 1 Alves97 Alves97 64 Nov  4 19:19 28 -> /home/Alves97/.vscode-server/data/logs/20261104T191659/remoteTelemetry.log

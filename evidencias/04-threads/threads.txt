@@ -1,0 +1,6 @@
+    PID     LWP STAT PRI  NI %CPU CMD
+   1719    1719 Sl+   19   0  0.0 python3 aplicacao/app.py
+   1719    1720 Rl+   19   0 99.9 python3 aplicacao/app.py
+1719
+1720
+Threads:	2

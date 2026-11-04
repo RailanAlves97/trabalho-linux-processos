@@ -1,0 +1,4 @@
+    PID    PPID STAT PRI  NI %CPU %MEM CMD
+   1719     924 Sl+   19   0  100  0.1 python3 aplicacao/app.py
+    PID    PPID CMD
+    924     781 /bin/bash --init-file /home/Alves97/.vscode-server/bin/a717861c07586a53d83b80d742cd3f59b20a6273/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh

@@ -1,0 +1,10 @@
+    PID    PPID STAT PRI  NI %CPU %MEM   RSS CMD
+   1719     924 Sl+   19   0  100  0.1 10284 python3 aplicacao/app.py
+top - 19:26:04 up 11 min,  1 user,  load average: 1.02, 0.88, 0.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.2 us,  0.8 sy,  0.0 ni, 91.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7614.8 total,   5101.8 free,   1314.6 used,   1364.2 buff/cache     
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6300.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1719 Alves97   20   0   89980  10284   6876 S 100.0   0.1   6:12.98 python3
